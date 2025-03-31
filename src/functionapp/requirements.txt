@@ -1,0 +1,9 @@
+azure-functions
+azure-storage-blob
+azure-cosmos
+azure-ai-formrecognizer==3.3.3
+azure-ai-textanalytics
+azure-ai-translation-text
+openai
+python-dotenv
+pandas

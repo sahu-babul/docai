@@ -1,0 +1,6 @@
+Extract the following information from this invoice:
+- Invoice number
+- Date
+- Total amount
+- Line items
+- Vendor information 

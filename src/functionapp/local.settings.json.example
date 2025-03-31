@@ -1,0 +1,15 @@
+{
+    "IsEncrypted": false,
+    "Values": {
+        "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+        "FUNCTIONS_WORKER_RUNTIME": "python",
+        "DOCUMENT_INTELLIGENCE_ENDPOINT": "your_document_intelligence_endpoint",
+        "DOCUMENT_INTELLIGENCE_KEY": "your_document_intelligence_key",
+        "TEXT_ANALYTICS_ENDPOINT": "your_text_analytics_endpoint",
+        "TEXT_ANALYTICS_KEY": "your_text_analytics_key",
+        "TRANSLATOR_ENDPOINT": "your_translator_endpoint",
+        "TRANSLATOR_KEY": "your_translator_key",
+        "OPENAI_API_KEY": "your_openai_api_key",
+        "DOCUMENT_INTELLIGENCE_SOLUTION": "DOCAI-1.0"
+    }
+} 
