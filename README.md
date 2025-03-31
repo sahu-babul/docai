@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Document AI System
 
 A comprehensive document processing system that uses Azure Document Intelligence and OpenAI for OCR and data extraction.
@@ -116,3 +117,6 @@ The application uses several environment variables for configuration:
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details. 
+=======
+# docai
+>>>>>>> a29d26ed6cdc8d95f2786e3e853544b679c67d84
